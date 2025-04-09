@@ -976,6 +976,10 @@ Now that my course is complete (March 2024) I have decided to update this site a
 <br>
 5 April 2024 - I updated Django, Python and other resources plus dependencies being used.
 
+# 2025 Updates
+
+The site is now on a domain and has been fully updated to include a system to follow users and a feed that shows content from followed users [https://www.showyourspot.com](https://www.showyourspot.com)
+
 
 <br>
 Developer: Diane Corriette - [GitHub](https://github.com/todiane) & [Website](https://djangify.up.railway.app/)
